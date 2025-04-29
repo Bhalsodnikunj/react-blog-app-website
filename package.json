@@ -1,6 +1,6 @@
 {
   "name": "react-blog-app-website",
-  "homepage": "https://github.com/Bhalsodnikunj/react-blog",
+   "homepage": "https://github.com/Bhalsodnikunj/react-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Bhalsodnikunj/react-blog-app-website.git/static/css/main.058a285e.css",
-    "main.js": "/Bhalsodnikunj/react-blog-app-website.git/static/js/main.f3f724a5.js",
-    "index.html": "/Bhalsodnikunj/react-blog-app-website.git/index.html",
-    "main.058a285e.css.map": "/Bhalsodnikunj/react-blog-app-website.git/static/css/main.058a285e.css.map",
-    "main.f3f724a5.js.map": "/Bhalsodnikunj/react-blog-app-website.git/static/js/main.f3f724a5.js.map"
+    "main.css": "/Bhalsodnikunj/react-blog-app-website/static/css/main.058a285e.css",
+    "main.js": "/Bhalsodnikunj/react-blog-app-website/static/js/main.f3f724a5.js",
+    "index.html": "/Bhalsodnikunj/react-blog-app-website/index.html",
+    "main.058a285e.css.map": "/Bhalsodnikunj/react-blog-app-website/static/css/main.058a285e.css.map",
+    "main.f3f724a5.js.map": "/Bhalsodnikunj/react-blog-app-website/static/js/main.f3f724a5.js.map"
   },
   "entrypoints": [
     "static/css/main.058a285e.css",
